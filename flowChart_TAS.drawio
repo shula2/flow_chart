@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="페이지-1" id="MKNNUns7rGQ7-kp-tXi3">
-    <mxGraphModel dx="3270" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="1270" y="1240" width="790" height="780" as="geometry" />
         </mxCell>
         <mxCell id="5cVBKe7JZOJeJDa9c_FY-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1700" y="50" width="385" height="850" as="geometry" />
+          <mxGeometry x="1700" y="50" width="385" height="840" as="geometry" />
         </mxCell>
         <mxCell id="5cVBKe7JZOJeJDa9c_FY-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="50" width="480" height="840" as="geometry" />
@@ -274,13 +274,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AOtO7T6UMFjzjY6C9dqb-55" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;easyOCR을 이용한 cross 검증 process&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1825" y="930" width="260" height="30" as="geometry" />
+          <mxGeometry x="1825" y="900" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AOtO7T6UMFjzjY6C9dqb-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="930" width="70" height="30" as="geometry" />
+          <mxGeometry x="1760" y="900" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zzyBHwVaxwy8kmb3sCTe-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3519" y="50" width="385" height="850" as="geometry" />
+          <mxGeometry x="3519" y="50" width="385" height="840" as="geometry" />
         </mxCell>
         <mxCell id="zzyBHwVaxwy8kmb3sCTe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3029" y="50" width="480" height="840" as="geometry" />
@@ -405,8 +405,8 @@
         <mxCell id="zzyBHwVaxwy8kmb3sCTe-39" value="채널 번호 영역 및 SCD 검출 결과 전달" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3749" y="695" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zzyBHwVaxwy8kmb3sCTe-40" value="PC&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;OCR engine : easyOCR&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3194" y="73" width="150" height="60" as="geometry" />
+        <mxCell id="zzyBHwVaxwy8kmb3sCTe-40" value="PC&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Python 자동화 Tool&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3204" y="73" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zzyBHwVaxwy8kmb3sCTe-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontStyle=1;fontSize=15;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zzyBHwVaxwy8kmb3sCTe-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
